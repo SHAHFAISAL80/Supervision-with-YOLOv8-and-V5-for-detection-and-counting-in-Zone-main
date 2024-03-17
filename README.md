@@ -1,2 +1,2 @@
-# Supervision-with-YOLOv8-and-V5-for-detection-and-counting-in-Zone-main
-Supervision-with-YOLOv8-and-V5-for-detection-and-counting-in-Zone-main
+# Tkinter-with-YOLO-python-to-exe-computer-vision
+you can watch the video here https://youtu.be/drzapntv8Tc
